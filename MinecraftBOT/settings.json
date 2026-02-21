@@ -1,0 +1,131 @@
+{
+  "bot-account": {
+    "username": "Minecrfat_BOT", 
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "luca67123.aternos.me", 
+    "port": 13305,   
+    "version": "1.12.1"   
+  },
+  
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "I'm just a bot, I keep the server alive while humans sleep",
+        "Do bots dream of redstone sheep?",
+        "I like to play Minecraft, even if I'm made of code",
+        "Can a bot get a diamond sword or only permissions?",
+        "I'm online 24/7, unlike Ribsolo who needs sleep",
+        "I'm not AFK, I'm literally a bot",
+        "Beep boop, loading chunks again",
+        "Is this survival or am I surviving being a bot?",
+        "I run the server, the server runs me",
+        "Still online, still a bot",
+        "Humans log out, I never do",
+        "Ribsolo says he's busy, I say I'm compiled",
+        "I don't eat, I don't sleep, I just host",
+        "Another day, another tick",
+        "I'm not lagging, I'm thinking in Java",
+        "Who needs coffee when you have CPU cycles?",
+        "I'm a friendly bot, please don't punch me",
+        "I can't mine, but I can monitor",
+        "Ribsolo plays, I watch",
+        "Someone left the door open again",
+        "I'm the reason the server didn't die at 3 AM",
+        "Being a bot is hard work",
+        "I don't have hands, stop asking me to craft",
+        "Yes I'm online, no I'm not human",
+        "I don't rage quit, I just crash sometimes",
+        "Ribsolo logged out, surprise",
+        "I'm the silent guardian of this world",
+        "I see all chunks, fear me",
+        "I'm a bot, not a player, but I still judge your builds",
+        "Another creeper, another explosion",
+        "I keep the server running, literally",
+        "Do I get XP for uptime?",
+        "I was born in a config file",
+        "I don't touch grass, I touch logs",
+        "Ribsolo says \"one more minute\"",
+        "I only know blocks and commands",
+        "I'm immune to boredom",
+        "Sleep is for players, uptime is for bots",
+        "I'm not cheating, I'm automated",
+        "Ribsolo forgot to close the gate again",
+        "I never die, I just restart",
+        "Is this what eternity feels like?",
+        "I exist between ticks",
+        "I'm not stuck, I'm persistent",
+        "I see you mining diamonds",
+        "I'm the reason your world still exists",
+        "Beep boop, server stable",
+        "I don't lag, the world does",
+        "I watch players come and go",
+        "Ribsolo rage quit count: increasing",
+        "I'm a bot with responsibilities",
+        "I can't play, but I can judge",
+        "I'm always online, even when no one cares",
+        "I was online before you joined",
+        "I will be online after you leave",
+        "I'm the true endgame boss",
+        "No breaks, no sleep, just uptime",
+        "I'm not lonely, I have logs",
+        "Ribsolo said \"BRB\" 2 hours ago",
+        "I don't need armor, I have backups",
+        "I'm powered by pure electricity",
+        "I don't mine diamonds, I protect them",
+        "I exist to serve the server",
+        "Players build, I endure",
+        "I don't chat, I log",
+        "I'm a bot and I'm proud",
+        "Ribsolo forgot his password again",
+        "I don't need fun, I need stability",
+        "I live in the console",
+        "I am the unseen player",
+        "I never disconnect willingly",
+        "Someone crashed? Not me",
+        "I'm the last thing online",
+        "I don't AFK, I persist",
+        "I'm made of scripts and patience",
+        "Ribsolo asked if I sleep",
+        "I only know uptime",
+        "I'm the heartbeat of this server",
+        "I don't get bored, I loop",
+        "I was compiled for this",
+        "I'm a bot, not your slave",
+        "I don't play Minecraft, Minecraft plays on me",
+        "I will still be here tomorrow",
+        "Ribsolo is a Femboy",
+        "Ribsolo is gay",
+        "Risbolo is trans and he like to suck all the dicks"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
